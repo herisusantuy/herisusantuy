@@ -11,11 +11,7 @@
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ---
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
+ 
 <h3>🤖 Languages & Frameworks</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
