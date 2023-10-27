@@ -1,7 +1,6 @@
 
-<h1>Hi, Great to see you.</h1>  
-<p>Welcome to my page!</p>
-<p>I'm Heri, a Front-end Developer from Indonesia 🇮🇩, currently living in Yogyakarta.</p> 
+![alt text](https://github.com/herisusantuy/herisusantuy/blob/main/header.png?raw=true)
+<p>A Front-end Developer from Indonesia 🇮🇩, currently living in Yogyakarta.</p> 
 
 🧠 I'm currently learning Native Mobile Development, Cross Platform Mobile Development with Kotlin, and Backend Development with Python 
 
@@ -9,6 +8,7 @@
 
 🚀 Read more about my projects at [herisusanto.com](https://www.herisusanto.com) <br/>
 <hr/>
+<h3>Languages & Frameworks</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
