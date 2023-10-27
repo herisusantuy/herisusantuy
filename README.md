@@ -1,14 +1,14 @@
 
 <h1>Hi, Great to see you.</h1>  
 <p>Welcome to my page!</p>
-<p>I'm Heri, a Front-end Developer from Indonesia 🇮🇩, currently living in Yogyakarta.</p>
-<br/>  
+<p>I'm Heri, a Front-end Developer from Indonesia 🇮🇩, currently living in Yogyakarta.</p> 
 
-🧠 I'm currently learning Native Mobile Development, Cross Platform Mobile Development with Kotlin, and Backend with Python 
+🧠 I'm currently learning Native Mobile Development, Cross Platform Mobile Development with Kotlin, and Backend Development with Python 
 
 💬 Ask me about React & React Native
 
-🚀 Read more about my projects at www.herisusanto.com 
+🚀 Read more about my projects at [herisusanto.com](https://www.herisusanto.com) <br/>
+<hr/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
