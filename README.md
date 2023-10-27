@@ -2,12 +2,20 @@
 ![alt text](https://github.com/herisusantuy/herisusantuy/blob/main/header.png?raw=true)
 <p>A Front-end Developer from Indonesia 🇮🇩, currently living in Yogyakarta.</p> 
 
-🧠 I'm currently learning Native Mobile Development, Cross Platform Mobile Development with Kotlin, and Backend Development with Python 
+🧠 I'm currently learning Native Mobile Development, Cross Platform Mobile Development with Kotlin, and Backend Development with Python  
 
-💬 Ask me about React & React Native
+🚀 Read more about my projects at [herisusanto.com](https://www.herisusanto.com) 
+<br/>   
+### 🗣 My activity:
 
-🚀 Read more about my projects at [herisusanto.com](https://www.herisusanto.com) <br/>
-<hr/>
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+---
+
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
 <h3>🤖 Languages & Frameworks</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,8 +32,12 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herisusantuy&layout=donut)](https://github.com/herisusantuy/github-readme-stats) 
+
+ 
 <h3>🛠️ Tools</h3>
 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![X Code](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
