@@ -5,12 +5,7 @@
 🧠 I'm currently learning Native Mobile Development, Cross Platform Mobile Development with Kotlin, and Backend Development with Python  
 
 🚀 Read more about my projects at [herisusanto.com](https://www.herisusanto.com) 
-<br/>   
-### 🗣 My activity:
-
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
----
+<br/>    
  
 <h3>🤖 Languages & Frameworks</h3>
 
