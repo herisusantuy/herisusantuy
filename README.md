@@ -2,7 +2,7 @@
 ![alt text](https://github.com/herisusantuy/herisusantuy/blob/main/header.png?raw=true)
 <p>A Front-end Developer from Indonesia 🇮🇩, currently living in Yogyakarta.</p> 
 
-🧠 I'm currently learning Native Mobile Development, Cross Platform Mobile Development with Kotlin, and Backend Development with Python  
+🧠 I'm currently learning Native iOS Mobile Development and working as Software Developer with MERN stack. 
 
 🚀 Read more about my projects at [herisusanto.com](https://www.herisusanto.com) 
 <br/>    
